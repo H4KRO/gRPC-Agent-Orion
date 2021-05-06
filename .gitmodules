@@ -1,0 +1,3 @@
+[submodule "Open-IoT-gRPC"]
+	path = Open-IoT-gRPC
+	url = https://github.com/H4KRO/Open-IoT-gRPC.git
